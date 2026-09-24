@@ -1,0 +1,14 @@
+{
+  "repo": "grokimagine2.0-grok-imagine-2.0-api-ko",
+  "model": "grok-imagine-2.0-ext",
+  "display": "Grok Imagine 2.0",
+  "variant": "model-ko",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "upload-image": 0,
+    "default": 0.015,
+    "region-edit": 0.015
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
