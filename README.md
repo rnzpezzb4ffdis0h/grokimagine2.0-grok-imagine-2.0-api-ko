@@ -2,7 +2,7 @@
 
 > 종량제, 최소 1달러 충전, OpenAI 호환 엔드포인트. **upload-image $0; default $0.015; region-edit $0.015**
 
-**[模型页](https://apimart.ai/model) · [实时价格](https://apimart.ai/pricing) · [获取 API Key](https://apimart.ai/keys)**
+**[模型页](https://go.apimart.ai/k-b3541d) · [实时价格](https://go.apimart.ai/k-4895c4) · [获取 API Key](https://go.apimart.ai/k-445378)**
 
 ## 가격（快照 2026-09-24）
 
